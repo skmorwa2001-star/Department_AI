@@ -1,0 +1,9 @@
+{
+  "name": "ai-ones-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI One's Platform with a secure GitHub server proxy",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
